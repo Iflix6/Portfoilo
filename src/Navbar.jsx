@@ -1,6 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Link } from 'react-router-dom';
-import { logo } from '../assets/index';
+import { logo } from './assets/index';
+
+
 
 const Navbar = () => {
   return (
